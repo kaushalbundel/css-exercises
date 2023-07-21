@@ -23,3 +23,27 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+/* Solution */
+
+.header {
+  padding: 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  padding: 0px;
+  gap: 8px;
+}
+
+/*
+The principles behind this exercise are::after
+1. Keep it simple.
+2. Observe the desired result
+3. Gather the tools (knowledge that you might already have. If not recollect and review.
+4. See what needs to be done and what tool can be used
+5. Experiment and iterate
+*/
