@@ -12,6 +12,53 @@ img {
   font-weight: 900;
 }
 
+/*Solution*/
+
+.title {
+  text-align: center;
+  padding-bottom: 32px;
+}
+
+.page-content {
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  gap: 52px;
+}
+
+.barberry {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  text-align: center;
+}
+.chilli{
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pepper{
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.saffron{
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
